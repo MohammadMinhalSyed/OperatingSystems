@@ -1,0 +1,5 @@
+Student ID = 1004, Mark = 80
+Student ID = 1005, Mark = 85
+Student ID = 1006, Mark = 100
+Average = 88.333333
+Standard Deviation = 8.498366
